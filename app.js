@@ -56,7 +56,7 @@ app.get('/test', (req, res) => {
     </head>
     <body>
         <div id="app"></div>
-        <script src="./module/main.js"></script>          
+        <script src="./module/main.js"></script>      
     </body>
     </html>`
   );
